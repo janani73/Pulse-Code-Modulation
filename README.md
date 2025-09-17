@@ -108,4 +108,8 @@ plt.show()
 
 <img width="1203" height="590" alt="image" src="https://github.com/user-attachments/assets/25a54945-d0d9-4fb6-b2ac-9615717b0025" />
 
+# RESULT:
+```
+The waveform was plotted successfully.
+```
 
